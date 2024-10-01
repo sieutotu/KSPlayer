@@ -16,22 +16,27 @@ Feature       | LGPL      | GPL     |
 |Smoothly Play 120 FPS Video|✅|❌|
 |Record video clips at any time|✅|❌|
 |Dovi P5 displays HDR (not overheating)|✅|❌|
+|Live streaming supports rewind viewing|✅|❌|
+|Preload video on hard disk(supports size control)|✅|❌|
+|Support short video hard disk persistence, play from hard disk next time|✅|❌|
 |Picture in Picture supports subtitle display|✅|❌|
 |Annex-B async hardware decoding(Live Stream)|✅|❌|
 |Use the fonts in the video to render subtitles|✅|❌|
 |Use memory cache for fast seek in short time range|✅|❌|
-|Cache data to Hard Drive,Preload data to Hard Drive|✅|❌|
 |Full display of ass subtitles effect(Render as image using libass)|✅|❌|
 |FFmpeg version|7.0.2|6.1.0|
 |Record video|✅|✅|
 |360° panorama video|✅|✅|
+|Picture in Picture|✅|✅|
 |Hardware accelerator|✅|✅|
+|Seamless loop playback|✅|✅|
 |De-interlace auto detect|✅|✅|
 |4k/HDR/HDR10/HDR10+/Dolby Vision|✅|✅|
 |Custom url protocols such as nfs/smb/UPnP |✅|✅|
 |Multichannel Audio/Dolby Atmos/Spatial Audio|✅|✅|
 |Text subtitle/Image subtitle/Closed Captions|✅|✅|
 |Search Online Subtitles(shooter/assrt/opensubtitles)|✅|✅|
+|Low latency 4K live video streaming (less than 200ms on LAN)|✅|✅|
 |Automatically switch to multi-bitrate streams based on network|✅|✅|
 
 ## The list of App using this SDK
@@ -39,6 +44,8 @@ App Store Link| TestFlight Link |
 | ----------- | ----------- |
 |[Alplayer](https://apps.apple.com/us/app/alplayer/id1660917007)||
 |[APTV](https://apps.apple.com/app/aptv/id1630403500)||
+|[homeTV IPTV Player](https://apps.apple.com/app/hometv-iptv-player/id1636701357)||
+|[IPTV +](https://apps.apple.com/app/iptv-my-smart-iptv-player/id1525121231)||
 |[LillyPlayer Video Player](https://apps.apple.com/app/lillyplayer-video-player/id1446967273)||
 |[SenPlayer](https://apps.apple.com/app/senplayer-hdr-media-player/id6443975850)||
 |[Smart IPTV](https://apps.apple.com/app/smart-iptv-tv-and-movies-ott/id1492738910)||
